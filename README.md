@@ -6,7 +6,7 @@
 
 ![Spacegame](https://github.com/Mars-Gor/Portfolio_Gamedev/blob/main/images/Spacegame.png?raw=true)
 
-Description
+its space game and its a game, about space, Space Game, doesnt work
 
 *[Window EXE]()
 *[Mac App]()
