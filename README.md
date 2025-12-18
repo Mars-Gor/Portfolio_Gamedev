@@ -18,3 +18,20 @@ its space game and its a game, about space, Space Game, Most of this game doesnt
 
 *[Source Code](https://github.com/Mars-Gor/Portfolio_Gamedev/raw/refs/heads/main/src/Spacegame/SpaceGame.zip)
 
+## Term 2 Projects
+
+### Hole In The Wall
+
+![HoleInTheWall](https://github.com/Mars-Gor/Portfolio_Gamedev/blob/main/images/HoleInWallScreenshot.png?raw=true)
+
+It's a 2D Topview where you have to avoid falling off by going through the hole in the wall
+
+### Members
+-Cj
+
+-Eli
+
+-Mars
+
+-Johnathan
+*[Source Code](https://github.com/Mars-Gor/Portfolio_Gamedev/tree/main/src/HoleInTheWall)
