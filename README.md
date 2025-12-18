@@ -6,7 +6,7 @@
 
 ![Spacegame](https://github.com/Mars-Gor/Portfolio_Gamedev/blob/main/images/Spacegame.png?raw=true)
 
-its space game and its a game, about space, Space Game, doesnt work
+its space game and its a game, about space, Space Game, Most of this game doesnt work, I will try to make it work later
 
 10 / 21 / 2025
 
